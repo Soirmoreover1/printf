@@ -1,5 +1,5 @@
 # 0x11. C - printf
 
-group project by.
+group project by team.
 - Mustafa slama
 - mohamed faheem
